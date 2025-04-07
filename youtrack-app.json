@@ -2,8 +2,8 @@
     "name": "Project Management App",
     "version": "1.0.0",
     "vendor": {
-        "name": "Your Name",
-        "url": "https://github.com/yourusername/youtrack-app"
+        "name": "DK",
+        "url": "https://github.com/dongkerr/youtrack-app"
     },
     "extensionPoints": [
         {

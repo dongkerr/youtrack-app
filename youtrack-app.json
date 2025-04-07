@@ -1,0 +1,17 @@
+{
+    "name": "Project Management App",
+    "version": "1.0.0",
+    "vendor": {
+        "name": "Your Name",
+        "url": "https://github.com/yourusername/youtrack-app"
+    },
+    "extensionPoints": [
+        {
+            "name": "MAIN_MENU_ITEM",
+            "module": "./dist/main.js",
+            "title": "Project Management",
+            "description": "Manage project settings and flags",
+            "icon": "settings"
+        }
+    ]
+}
